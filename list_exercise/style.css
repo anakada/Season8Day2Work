@@ -1,0 +1,23 @@
+body
+{
+	background: yellow;
+	color: blue;
+}
+
+li.animal
+{
+	color: red;
+}
+
+li.plant
+{
+	color: green;
+}
+
+#favourite
+{
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: underline;
+	font-style: italic;
+}
